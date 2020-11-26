@@ -1,0 +1,36 @@
+#top{
+
+
+border-style: solid;
+border-color: darkgrey;
+border-width: 6px;
+width:50%;
+margin-left: 250px;
+margin-top: 50px;
+padding-left: 300px;
+background-color: coral;
+font-family: 'Nunito', sans-serif;
+
+}
+
+
+#bottom{
+
+
+    border-style: solid;
+    border-color:cornflowerblue;
+    border-width: 6px;
+    width:50%;
+    margin-top: 440px;
+    margin-left: 250px;
+    padding-left: 300px;
+    background-color: cornflowerblue;
+    font-family: 'Goldman', cursive;
+    
+    }
+
+
+
+    h1{
+        font-family: 'Big Shoulders Stencil Display', cursive;
+    }
